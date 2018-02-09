@@ -1,0 +1,52 @@
+/* line 1, ../sass/fotter.scss */
+footer {
+  background: #151515;
+  text-align: center;
+  color: white;
+}
+/* line 2, ../sass/fotter.scss */
+footer .row {
+  margin: 0;
+}
+/* line 8, ../sass/fotter.scss */
+footer ul {
+  list-style: none;
+}
+/* line 12, ../sass/fotter.scss */
+footer .datos ul {
+  padding: 43px 0 43px 0;
+}
+/* line 16, ../sass/fotter.scss */
+footer .secciones {
+  padding: 14px 0 14px 0;
+}
+/* line 18, ../sass/fotter.scss */
+footer .secciones ul {
+  padding: 0;
+}
+/* line 22, ../sass/fotter.scss */
+footer .redesfooter {
+  font-size: 20px;
+  padding: 50px 0 50px 0;
+}
+/* line 26, ../sass/fotter.scss */
+footer .redesfooter li {
+  display: inline-block;
+  border: 2px solid white;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  color: white;
+  background: #151515;
+  margin: 2px;
+}
+/* line 36, ../sass/fotter.scss */
+footer .redesfooter li:hover {
+  border: 2px solid #151515;
+}
+/* line 40, ../sass/fotter.scss */
+footer .redesfooter li span {
+  position: relative;
+  top: 5px;
+}

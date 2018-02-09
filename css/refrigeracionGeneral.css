@@ -1,0 +1,16 @@
+/* line 1, ../sass/refrigeracionGeneral.scss */
+.tituloSeccion {
+  margin-top: 145px;
+  text-align: center;
+}
+
+/* line 6, ../sass/refrigeracionGeneral.scss */
+.iconosServicios {
+  text-align: center;
+  padding: 160px 0;
+}
+/* line 9, ../sass/refrigeracionGeneral.scss */
+.iconosServicios span {
+  font-size: 150px;
+  color: dodgerblue;
+}

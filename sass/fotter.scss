@@ -1,0 +1,48 @@
+footer{
+  .row{
+    margin: 0;
+  }
+  background: #151515;
+  text-align: center;
+  color:white;
+  ul{
+    list-style: none;
+  }
+  .datos {
+    ul {
+      padding: 43px 0 43px 0;
+    }
+  }
+  .secciones{
+    padding: 14px 0 14px 0;
+    ul{
+      padding: 0;
+    }
+  }
+  .redesfooter{
+    font-size: 20px;
+    padding: 50px 0 50px 0;
+
+    li{
+      display: inline-block;
+      border:2px solid white;
+      border-radius:50%;
+      width: 40px;
+      height: 40px;
+      text-align: center;
+      color:white;
+      background:#151515;
+      margin:2px;
+      &:hover{
+        border:2px solid #151515;
+
+      }
+      span{
+        position:relative;
+        top:5px;
+      }
+
+    }
+
+  }
+}

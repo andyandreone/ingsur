@@ -1,0 +1,22 @@
+/* line 1, ../sass/portfolio.scss */
+.hide-bullets {
+  list-style: none;
+  margin-left: -40px;
+  margin-top: 20px;
+}
+
+/* line 7, ../sass/portfolio.scss */
+.thumbnail {
+  padding: 0;
+}
+
+/* line 11, ../sass/portfolio.scss */
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  width: 100%;
+}
+
+/* line 15, ../sass/portfolio.scss */
+.tituloSeccion {
+  margin-top: 145px;
+  text-align: center;
+}

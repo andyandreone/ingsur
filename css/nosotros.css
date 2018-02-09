@@ -1,0 +1,15 @@
+/* line 1, ../sass/nosotros.scss */
+.img-nosotros {
+  margin-bottom: 60px;
+}
+
+/* line 4, ../sass/nosotros.scss */
+.iconosNosotros {
+  text-align: center;
+  padding: 160px 0;
+}
+/* line 7, ../sass/nosotros.scss */
+.iconosNosotros span {
+  font-size: 150px;
+  color: dodgerblue;
+}
