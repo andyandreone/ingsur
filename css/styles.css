@@ -117,7 +117,7 @@ h2, h5 {
 }
 
 /* Thin out the marketing headings */
-/* line 102, ../sass/_main.scss */
+/* line 103, ../sass/_main.scss */
 .featurette-heading {
   font-weight: 300;
   line-height: 1;
@@ -128,44 +128,44 @@ h2, h5 {
 -------------------------------------------------- */
 @media (min-width: 768px) {
   /* Navbar positioning foo */
-  /* line 114, ../sass/_main.scss */
+  /* line 115, ../sass/_main.scss */
   .navbar-wrapper {
     margin-top: 20px;
   }
 
-  /* line 117, ../sass/_main.scss */
+  /* line 118, ../sass/_main.scss */
   .navbar-wrapper .container {
     padding-right: 15px;
     padding-left: 15px;
   }
 
-  /* line 121, ../sass/_main.scss */
+  /* line 122, ../sass/_main.scss */
   .navbar-wrapper .navbar {
     padding-right: 0;
     padding-left: 0;
   }
 
   /* The navbar becomes detached from the top, so we round the corners */
-  /* line 127, ../sass/_main.scss */
+  /* line 128, ../sass/_main.scss */
   .navbar-wrapper .navbar {
     border-radius: 4px;
   }
 
   /* Bump up size of carousel content */
-  /* line 132, ../sass/_main.scss */
+  /* line 133, ../sass/_main.scss */
   .carousel-caption p {
     margin-bottom: 20px;
     font-size: 21px;
     line-height: 1.4;
   }
 
-  /* line 138, ../sass/_main.scss */
+  /* line 139, ../sass/_main.scss */
   .featurette-heading {
     font-size: 50px;
   }
 }
 @media (min-width: 992px) {
-  /* line 144, ../sass/_main.scss */
+  /* line 145, ../sass/_main.scss */
   .featurette-heading {
     margin-top: 120px;
   }
@@ -256,25 +256,53 @@ footer .redesfooter li span {
   color: dodgerblue;
 }
 
-/* line 1, ../sass/portfolio.scss */
-.hide-bullets {
-  list-style: none;
-  margin-left: -40px;
-  margin-top: 20px;
-}
-
-/* line 7, ../sass/portfolio.scss */
-.thumbnail {
-  padding: 0;
-}
-
-/* line 11, ../sass/portfolio.scss */
-.carousel-inner > .item > img, .carousel-inner > .item > a > img {
-  width: 100%;
-}
-
-/* line 15, ../sass/portfolio.scss */
+/* line 2, ../sass/portfolio.scss */
 .tituloSeccion {
   margin-top: 145px;
   text-align: center;
+}
+
+/* line 8, ../sass/portfolio.scss */
+.featurette-divider2 {
+  margin: 80px 0;
+  /* Space out the Bootstrap <hr> more */
+}
+
+/* line 12, ../sass/portfolio.scss */
+.portfolioBloque {
+  text-align: center;
+  display: inline-block;
+}
+
+/* line 17, ../sass/portfolio.scss */
+.parteArriba {
+  display: flex;
+  text-align: left;
+}
+/* line 21, ../sass/portfolio.scss */
+.parteArriba .portfolioImagenMiniatura {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-image: url("/images/logoSolo2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+/* line 29, ../sass/portfolio.scss */
+.parteArriba p {
+  padding: 15px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/* line 37, ../sass/portfolio.scss */
+.perteMedio img {
+  padding: 5px;
+  border: solid 0.2px gray;
+}
+
+/* line 43, ../sass/portfolio.scss */
+.parteAbajo p {
+  padding: 15px;
+  text-align: left;
 }
