@@ -2,26 +2,27 @@
 .tituloSeccion {
   margin-top: 145px;
   text-align: center;
+  font-size: 3pc;
 }
 
-/* line 8, ../sass/portfolio.scss */
+/* line 9, ../sass/portfolio.scss */
 .featurette-divider2 {
-  margin: 80px 0;
+  margin: 40px 0;
   /* Space out the Bootstrap <hr> more */
 }
 
-/* line 12, ../sass/portfolio.scss */
+/* line 13, ../sass/portfolio.scss */
 .portfolioBloque {
   text-align: center;
   display: inline-block;
 }
 
-/* line 17, ../sass/portfolio.scss */
+/* line 18, ../sass/portfolio.scss */
 .parteArriba {
   display: flex;
   text-align: left;
 }
-/* line 21, ../sass/portfolio.scss */
+/* line 22, ../sass/portfolio.scss */
 .parteArriba .portfolioImagenMiniatura {
   width: 50px;
   height: 50px;
@@ -30,20 +31,20 @@
   background-size: contain;
   background-repeat: no-repeat;
 }
-/* line 29, ../sass/portfolio.scss */
+/* line 30, ../sass/portfolio.scss */
 .parteArriba p {
   padding: 15px;
   font-size: 15px;
   font-weight: bold;
 }
 
-/* line 37, ../sass/portfolio.scss */
+/* line 38, ../sass/portfolio.scss */
 .perteMedio img {
   padding: 5px;
   border: solid 0.2px gray;
 }
 
-/* line 43, ../sass/portfolio.scss */
+/* line 44, ../sass/portfolio.scss */
 .parteAbajo p {
   padding: 15px;
   text-align: left;

@@ -57,7 +57,7 @@ $(document).ready(function(){
         }
     });
 
-
+/*
     //AJUSTE H1
     var ajusteFontSizeTitulo = function () {
 
@@ -73,7 +73,7 @@ $(document).ready(function(){
         ajusteFontSizeTitulo();
     });
 
-
+*/
 
 
 

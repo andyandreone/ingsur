@@ -1,0 +1,40 @@
+/* line 2, ../sass/contacto.scss */
+.formularioContacto {
+  margin-top: 90px;
+  margin-bottom: 45px;
+}
+
+/* line 7, ../sass/contacto.scss */
+.tituloContacto {
+  text-align: center;
+  margin: 30px 0;
+}
+
+/* line 12, ../sass/contacto.scss */
+#formcontacto {
+  height: 450px;
+  padding: 15px;
+  text-align: center;
+}
+/* line 16, ../sass/contacto.scss */
+#formcontacto h3 {
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+
+/* line 24, ../sass/contacto.scss */
+.enviar {
+  background: dodgerblue;
+  border: dodgerblue;
+  margin: 10px;
+}
+/* line 28, ../sass/contacto.scss */
+.enviar:hover {
+  background: gray;
+}
+
+/* line 33, ../sass/contacto.scss */
+.form-control:focus {
+  border-color: dodgerblue;
+}
