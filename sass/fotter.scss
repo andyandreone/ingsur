@@ -15,6 +15,13 @@ footer{
   }
   .secciones{
     padding: 14px 0 14px 0;
+    a{
+      text-decoration: none;
+      color: white;
+      &:hover{
+        color:dimgray;
+      }
+    }
     ul{
       padding: 0;
     }

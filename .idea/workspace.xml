@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="519897d3-9b3b-47e3-bb3b-b4d99a41dcb9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/65382b88bca61f8ca0ded7934a0a1d140e7a2eca/_main.scssc" afterPath="$PROJECT_DIR$/.sass-cache/65382b88bca61f8ca0ded7934a0a1d140e7a2eca/_main.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/65382b88bca61f8ca0ded7934a0a1d140e7a2eca/portfolio.scssc" afterPath="$PROJECT_DIR$/.sass-cache/65382b88bca61f8ca0ded7934a0a1d140e7a2eca/portfolio.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/65382b88bca61f8ca0ded7934a0a1d140e7a2eca/styles.scssc" afterPath="$PROJECT_DIR$/.sass-cache/65382b88bca61f8ca0ded7934a0a1d140e7a2eca/styles.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/65382b88bca61f8ca0ded7934a0a1d140e7a2eca/fotter.scssc" afterPath="$PROJECT_DIR$/.sass-cache/65382b88bca61f8ca0ded7934a0a1d140e7a2eca/fotter.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/barraMenu.html" afterPath="$PROJECT_DIR$/barraMenu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/portfolio.css" afterPath="$PROJECT_DIR$/css/portfolio.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fotter.css" afterPath="$PROJECT_DIR$/css/fotter.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_main.scss" afterPath="$PROJECT_DIR$/sass/_main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/portfolio.scss" afterPath="$PROJECT_DIR$/sass/portfolio.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/styles.scss" afterPath="$PROJECT_DIR$/sass/styles.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fotter.html" afterPath="$PROJECT_DIR$/fotter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/fotter.scss" afterPath="$PROJECT_DIR$/sass/fotter.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,6 +65,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="fotter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fotter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fotter.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sass/fotter.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contacto.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contacto.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/contacto.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -132,7 +147,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/html/fotter.html" />
-        <option value="$PROJECT_DIR$/sass/fotter.scss" />
         <option value="$PROJECT_DIR$/js/nosotros.scss" />
         <option value="$PROJECT_DIR$/sass/nosotros.scss" />
         <option value="$PROJECT_DIR$/sass/refrigeracionGeneral.scss" />
@@ -156,6 +170,8 @@
         <option value="$PROJECT_DIR$/send1.php" />
         <option value="$PROJECT_DIR$/contacto.html" />
         <option value="$PROJECT_DIR$/sass/contacto.scss" />
+        <option value="$PROJECT_DIR$/fotter.html" />
+        <option value="$PROJECT_DIR$/sass/fotter.scss" />
       </list>
     </option>
   </component>
@@ -198,6 +214,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -294,25 +324,25 @@
       <workItem from="1517272098052" duration="34358000" />
       <workItem from="1518138003657" duration="318000" />
       <workItem from="1518138406797" duration="283000" />
-      <workItem from="1518307387607" duration="7541000" />
+      <workItem from="1518307387607" duration="8596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62830000" />
+    <option name="totallyTimeSpent" value="63885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-12" width="2712" height="1458" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1954023" sideWeight="0.77675277" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1954023" sideWeight="0.771615" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19310345" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27895597" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1791531" sideWeight="0.22324723" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1954023" sideWeight="0.22838499" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -495,13 +525,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/fotter.html" />
-    <entry file="file://$PROJECT_DIR$/sass/fotter.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/nosotros.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -532,14 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-959">
           <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fotter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -652,6 +667,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fotter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/fotter.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding />
         </state>
       </provider>
